@@ -49,7 +49,7 @@ There are two modules in this project:
 > An answer generated based on the contents of the document:
 ![img.png](img.png)
 
-> If the information related to the questio does not exist in the document:
+> If the information related to the question does not exist in the document:
 ![img_1.png](img_1.png)
 
 8. Enjoy!
