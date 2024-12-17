@@ -45,4 +45,11 @@ There are two modules in this project:
 5. In the `ui` module, first run `npm install` and then to run the React app, run `npm start` from terminal.
 6. Open the browser and navigate to `http://localhost:3000/`.
 7. Start chatting with the chatbot.
+
+> An answer generated based on the contents of the document:
+![img.png](img.png)
+
+> If the information related to the questio does not exist in the document:
+![img_1.png](img_1.png)
+
 8. Enjoy!
