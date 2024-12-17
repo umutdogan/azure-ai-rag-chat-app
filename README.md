@@ -4,14 +4,16 @@ This project is created to demonstrate basic usage of Azure AI services.
 The project is a simple Retrieval-Augmented Generation (RAG) chat app that 
 uses Azure AI services endpoint to generate responses to user queries.
 
-## Modules
+Full tutorial can be found [here](https://umutdogan.com/posts/2024-12-17-rag-chat-app-with-azure-ai-studio-spring-boot-react/).
+
+### Modules
 
 There are two modules in this project:
 1. UI: A React app that provides a simple chat interface to interact with the chatbot.
 2. Backend: A Spring Boot app that provides REST API to interact with Azure AI services.
 
-## Prerequisites
-- Java 21
+### Prerequisites
+- Java 17+
 - Maven
 - Node.js
 - npm
@@ -21,10 +23,10 @@ There are two modules in this project:
 - Git
 - IDE (IntelliJ IDEA, Eclipse, etc.)
 
-### Run Instructions
+### Instructions
 1. Clone the repository to your local machine.
 2. Open the project in your IDE.
-3. Add `AZURE_AI_ENDPOINT` and `AZURE_AI_KEY` environment variables to your system. 
+3. Add `AZURE_AI_ENDPOINT` and `AZURE_AI_KEY` environment variables to your system variables. 
 > On macOS, you can set the environment variable in your shell profile 
       (e.g., .bash_profile, .zshrc) and Reload the shell profile:
 ```
